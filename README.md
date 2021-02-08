@@ -4,7 +4,7 @@
 
 - :microscope: &nbsp; Developing a React-Native social media app
 - 🎓 &nbsp; Studying Computer Science in northern Germany.
-- 💼 &nbsp; Working as a working student as a frontend engineer for.
+- 💼 &nbsp; Working as a working student as a frontend engineer.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
