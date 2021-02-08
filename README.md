@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Developing a React-Native social media app
+- :microscope: &nbsp; Developing a React-Native social media app
 - 🎓 &nbsp; Studying Computer Science in northern Germany.
 - 💼 &nbsp; Working as a working student as a frontend engineer for.
 
