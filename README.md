@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2> Hey there! I'm Alec from northern Germany.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -31,7 +29,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![JetBrains IntelliJ Plugins](https://img.shields.io/jetbrains/plugin/v/11941-automatic-power-saver?label=Latest%20Plugin%20Release&style=flat-square)
 - 🖥 &nbsp;
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 
