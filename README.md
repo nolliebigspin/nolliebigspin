@@ -4,7 +4,6 @@
 
 - 🎓 &nbsp; Studying Computer Science in northern Germany.
 - 💼 &nbsp; Working as a working student in Hamburg.
-- :microscope: &nbsp; Developing a React-Native social media app
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
