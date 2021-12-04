@@ -34,4 +34,4 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
 
-[nolliebigspin.com/contact](https://www.nolliebigspin.com)
+[nolliebigspin.com/contact](https://nolliebigspin.com/contact)
