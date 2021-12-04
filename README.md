@@ -32,4 +32,4 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   
 
-<h3> 🤝🏻 &nbsp;Connect with Me @ [nolliebigspin.com/contact](nolliebigspin.com)</h3>
+<h3> 🤝🏻 &nbsp;Connect with Me @ [nolliebigspin.com/contact](https://www.nolliebigspin.com)</h3>
