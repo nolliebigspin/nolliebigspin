@@ -8,7 +8,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=Rust&logoColor=8b3103)
 - 🌐 &nbsp;
@@ -33,5 +33,3 @@
   
 
 <h3> 🤝🏻 &nbsp;Connect with Me</h3>
-
-[nolliebigspin.com/contact](https://nolliebigspin.com/contact)
