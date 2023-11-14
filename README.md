@@ -1,4 +1,4 @@
-<h2>Hey there! I'm Alec from northern Germany.</h2>
+## Hey there! I'm Alec from northern Germany
 
 ### 👨🏻‍💻 &nbsp;About Me
 [awinter.dev/about](https://awinter.dev/about) 🚧
