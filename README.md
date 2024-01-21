@@ -1,7 +1,7 @@
 ## Hey there! I'm Alec from northern Germany
 
 ### 👨🏻‍💻 &nbsp;About Me
-[awinter.dev/about](https://awinter.dev/about) 🚧
+[awinter.dev/about](https://awinter.dev/now) 🚧
 
 ### 🛠 &nbsp;Tech Stack
 
